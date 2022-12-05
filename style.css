@@ -1,0 +1,49 @@
+.naslov {font-size: 30px; 
+       padding-left: 500px;
+       text-shadow: 2px 1px black;
+       color: rgb(131, 127, 127);
+       opacity: 0.6;
+       letter-spacing: 1px;}
+
+.klip {padding-top: 200px ;
+       padding-right: 520px ;
+       align-self: flex-start;}
+
+header {color:rgb(226, 23, 23); 
+       padding-inline-start: 30%;
+       padding-left: 450px;
+       font-size: 20px;
+       opacity: 0.6;}
+
+.ikonica{float: right; 
+         border-radius: 10px;
+         padding-top: 550px;
+         opacity: 0.5;
+         }
+
+body {background-image: url(./bugatti2.jpg);}
+
+.topnav {
+       background-color: rgb(229, 228, 226);
+       opacity: 0.9;
+       margin-top: 60px;
+}
+.topnav a {
+       float: left;
+       color: saddlebrown;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+       font-size: 17px;
+       box-sizing: 6px 12px;
+}
+.topnav a:hover {
+       background-color: rgb(179, 84, 21);
+       color: rgb(202, 194, 187);
+}
+.topnav a:active {
+       background-color: white;
+       color: saddlebrown;}
+
+.lista {inline-size: 200px;}
+
